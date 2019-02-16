@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1403844920 source:d:\area41\codeblocks projects\myfirstdive\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1403690427 d:\area41\codeblocks projects\myfirstdive\tictactoe.h
+	<iostream>
+	"tictactoe.h"
+	<string>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1403848640 source:d:\area41\codeblocks projects\myfirstdive\dynamicarr.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1403848702 source:d:\area41\codeblocks projects\myfirstdive\polldata.cpp
+	<iostream>
+
+1403865983 source:d:\area41\codeblocks projects\myfirstdive\recentcontacts.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstring>
+
+1404202978 source:d:\area41\codeblocks projects\myfirstdive\linkedlist.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
+1404130030 d:\area41\codeblocks projects\myfirstdive\linkedlist.h
+	<iostream>
+	<string>
+	<conio.h>
+
+1404222164 source:d:\area41\codeblocks projects\myfirstdive\recurse.cpp
+	<iostream>
+
+1404286130 source:d:\area41\codeblocks projects\myfirstdive\recurselinkedlist.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
+1404289744 source:d:\area41\codeblocks projects\myfirstdive\recursesortedfind.cpp
+	<iostream>
+
+1404387435 source:d:\area41\codeblocks projects\myfirstdive\recursedlinkedlist.cpp
+	<iostream>
+	<conio.h>
+
